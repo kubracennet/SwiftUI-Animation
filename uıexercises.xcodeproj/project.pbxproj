@@ -11,6 +11,7 @@
 		F680F92629DA10270041D3A6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F680F92529DA10270041D3A6 /* ContentView.swift */; };
 		F680F92829DA102B0041D3A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F680F92729DA102B0041D3A6 /* Assets.xcassets */; };
 		F680F92B29DA102B0041D3A6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F680F92A29DA102B0041D3A6 /* Preview Assets.xcassets */; };
+		F6ACBCF129E0F2BA00E55DF1 /* AnimationChallenge.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6ACBCF029E0F2BA00E55DF1 /* AnimationChallenge.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		F680F92529DA10270041D3A6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F680F92729DA102B0041D3A6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F680F92A29DA102B0041D3A6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F6ACBCF029E0F2BA00E55DF1 /* AnimationChallenge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationChallenge.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				F680F92329DA10270041D3A6 /* u_exercisesApp.swift */,
+				F6ACBCF029E0F2BA00E55DF1 /* AnimationChallenge.swift */,
 				F680F92529DA10270041D3A6 /* ContentView.swift */,
 				F680F92729DA102B0041D3A6 /* Assets.xcassets */,
 				F680F92929DA102B0041D3A6 /* Preview Content */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F680F92629DA10270041D3A6 /* ContentView.swift in Sources */,
+				F6ACBCF129E0F2BA00E55DF1 /* AnimationChallenge.swift in Sources */,
 				F680F92429DA10270041D3A6 /* u_exercisesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

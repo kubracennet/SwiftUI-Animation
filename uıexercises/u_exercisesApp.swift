@@ -11,7 +11,7 @@ import SwiftUI
 struct u_exercisesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AnimationChallenge()
         }
     }
 }

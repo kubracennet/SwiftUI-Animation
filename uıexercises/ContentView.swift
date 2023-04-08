@@ -2,25 +2,33 @@
 //  ContentView.swift
 //  uıexercises
 //
-//  Created by Kübra Cennet Yavaşoğlu on 2.04.2023.
+//  Created by Kübra Cennet  on 2.04.2023.
 //
 
-import SwiftUI
+//import SwiftUI
 
-struct ContentView: View {
+/*struct ContentView: View {
+    @State private var colorChange = false
+    @State private var sizeChange = false
+    
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
-        }
-        .padding()
-    }
-}
+        Image(systemName: "heart.fill")
+            .font(.system(size: 200))
+            .foregroundColor(colorChange ? .red : .white)
+            .scaleEffect(sizeChange ? 1.5 : 1)
+            .animation(.default)
+            .onTapGesture {
+                self.colorChange.toggle()
+            }
+            .onLongPressGesture {
+                self.sizeChange.toggle()
+            }
+      }
+  }
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
     }
 }
+ /**/*/
